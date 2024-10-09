@@ -1,0 +1,8 @@
+# Ignore all .env files
+*.env
+
+# Ignore api_keys.txt file
+api_keys.txt
+
+requirement.txt
+req.txt
